@@ -1,3 +1,4 @@
+# The following is the original readme I used from https://github.com/weiaicunzai/pytorch-cifar100, please see the original one
 # Pytorch-cifar100
 
 practice on cifar100 using pytorch
